@@ -25,7 +25,12 @@
 
 **试玩与演示**
 
-- 演示视频：准备中
+- 演示视频：
+
+<video src="media/elemental-echo-demo.mp4" controls width="960">
+  您的 Markdown 查看器不支持 video 标签，可直接打开 media/elemental-echo-demo.mp4。
+</video>
+
 - Windows 试玩包：准备中
 - 在线试玩：准备导出 WebGL 并发布到 Unity Play
 
