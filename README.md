@@ -23,7 +23,9 @@
 
 **试玩与演示**
 
-- 演示视频：
+- [![Elemental Echo - 点击观看完整游戏演示](assets/elemental-echo-cover.png)](https://www.bilibili.com/video/BV1iEec6UEiG/)
+
+  **▶ 点击封面，在 Bilibili 观看完整游戏演示**
 
 - Windows 试玩包：准备中
 - 在线试玩：准备导出 WebGL 并发布到 Unity Play
