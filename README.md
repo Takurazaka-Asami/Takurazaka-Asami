@@ -1,7 +1,5 @@
 # 张馨月 | Unity 游戏客户端开发
 
-> 专注 Unity Gameplay、战斗系统与数据驱动的游戏客户端开发。
-
 目前就读于中国传媒大学数据科学与大数据技术专业，求职方向为 **Unity 游戏客户端开发工程师**。参与过商业 Unity 放置 RPG 手游客户端研发，并独立完成 3D RPG + Roguelike 游戏项目。
 
 ## 技术关键词
@@ -26,10 +24,6 @@
 **试玩与演示**
 
 - 演示视频：
-
-<video src="media/elemental-echo-demo.mp4" controls width="960">
-  您的 Markdown 查看器不支持 video 标签，可直接打开 media/elemental-echo-demo.mp4。
-</video>
 
 - Windows 试玩包：准备中
 - 在线试玩：准备导出 WebGL 并发布到 Unity Play
